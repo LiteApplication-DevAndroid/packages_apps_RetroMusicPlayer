@@ -1,7 +1,7 @@
 LOCAL_PATH := $(call my-dir)
 
 include $(CLEAR_VARS)
-LOCAL_MODULE := GoogleCamera
+LOCAL_MODULE := MusicPlayer
 LOCAL_MODULE_TAGS := optional
 LOCAL_SRC_FILES := retro-music-player-3-2-120-0708.apk
 LOCAL_CERTIFICATE := platform
